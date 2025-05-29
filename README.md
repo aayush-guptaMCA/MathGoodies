@@ -1,2 +1,2 @@
 # MathGoodies
-Hello! MathGoodies is my project name that i created using core java. It contain so many different Frame connected to each other .Every single Frame perform Individual mathematical Function that made easy to solve a complex problem easily .
+Hello!  This is  a desktop-based application to perform a wide range of mathematical operations, including arithmetic, trigonometric, geometric, and statistical calculations. Also implemented unit and number base conversions, providing users with a comprehensive and user-friendly math toolkit.
